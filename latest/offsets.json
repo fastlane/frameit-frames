@@ -1,144 +1,256 @@
 {
-  "portrait": {
-    "Samsung Galaxy S7": {
-      "offset": "+73+338",
-      "width": 1440
-    },
-    "Samsung Galaxy S9": {
-      "offset": "+46+178",
-      "width": 1440
-    },
-    "Google Pixel 3": {
-      "offset": "+55+199",
-      "width": 1080
-    },
-    "Nexus 6P": {
-      "offset": "+59+329",
-      "width": 1440
-    },
-    "Samsung Galaxy S8": {
-      "offset": "+48+187",
-      "width": 1440
-    },
-    "Nexus 5x": {
-      "offset": "+53+231",
-      "width": 1080
-    },
-    "Samsung Galaxy Note 5": {
-      "offset": "+66+290",
-      "width": 1440
-    },
-    "iPhone 6s Plus": {
-      "offset": "+102+379",
-      "width": 1242
-    },
-    "iPhone 7": {
-      "offset": "+61+228",
-      "width": 750
-    },
-    "iPhone 8": {
-      "offset": "+61+219",
-      "width": 750
-    },
-    "Samsung Galaxy S Duos": {
-      "offset": "+48+156",
-      "width": 480
-    },
-    "iPhone 5c": {
-      "offset": "+67+239",
-      "width": 640
-    },
-    "iPhone 8 Plus": {
-      "offset": "+98+335",
-      "width": 1242
-    },
-    "HTC One A9": {
-      "offset": "+78+292",
-      "width": 1080
-    },
-    "Google Pixel 3 XL": {
-      "offset": "+69+71",
-      "width": 1440
-    },
-    "Nexus 4": {
-      "offset": "+41+185",
-      "width": 768
-    },
-    "Motorola Moto E": {
-      "offset": "+55+185",
-      "width": 540
-    },
-    "Huawei P8": {
-      "offset": "+60+230",
-      "width": 1080
-    },
-    "Samsung Galaxy S3": {
-      "offset": "+65+158",
-      "width": 720
-    },
-    "Samsung Galaxy S5": {
-      "offset": "+79+246",
-      "width": 1080
-    },
-    "iPhone XS": {
-      "offset": "+85+77",
-      "width": 1125
-    },
-    "iPhone X": {
-      "offset": "+85+77",
-      "width": 1125
-    },
-    "Samsung Galaxy Grand Prime": {
-      "offset": "+47+148",
-      "width": 540
-    },
-    "iPhone XS Max": {
-      "offset": "+86+78",
-      "width": 1242
-    },
-    "iPhone 7 Plus": {
-      "offset": "+104+380",
-      "width": 1242
-    },
-    "iPhone XR": {
-      "offset": "+75+71",
-      "width": 828
-    },
-    "iPhone 5s": {
-      "offset": "+64+238",
-      "width": 640
-    },
-    "iPhone SE": {
-      "offset": "+64+237",
-      "width": 640
-    },
-    "iPhone 6s": {
-      "offset": "+61+228",
-      "width": 750
-    },
-    "HTC One M8": {
-      "offset": "+72+267",
-      "width": 1080
-    },
-    "Motorola Moto G": {
-      "offset": "+55+189",
-      "width": 720
-    },
-    "iPad Pro": {
-      "offset": "+119+216",
-      "width": 2048
-    },
-    "iPad Air 2": {
-      "offset": "+111+224",
-      "width": 1536
-    },
-    "Nexus 9": {
-      "offset": "+96+260",
-      "width": 1536
-    },
-    "iPad Mini 4": {
-      "offset": "+96+278",
-      "width": 1536
-    }
-  }
+  "portrait": [
+    [
+      "Google Pixel 3",
+      {
+        "offset": "+55+199",
+        "width": 1080
+      }
+    ],
+    [
+      "Google Pixel 3 XL",
+      {
+        "offset": "+69+71",
+        "width": 1440
+      }
+    ],
+    [
+      "HTC One A9",
+      {
+        "offset": "+78+292",
+        "width": 1080
+      }
+    ],
+    [
+      "HTC One M8",
+      {
+        "offset": "+72+267",
+        "width": 1080
+      }
+    ],
+    [
+      "Huawei P8",
+      {
+        "offset": "+60+230",
+        "width": 1080
+      }
+    ],
+    [
+      "Macbook",
+      {
+        "offset": "+380+128",
+        "width": 2304
+      }
+    ],
+    [
+      "Motorola Moto E",
+      {
+        "offset": "+55+185",
+        "width": 540
+      }
+    ],
+    [
+      "Motorola Moto G",
+      {
+        "offset": "+55+189",
+        "width": 720
+      }
+    ],
+    [
+      "Nexus 4",
+      {
+        "offset": "+41+185",
+        "width": 768
+      }
+    ],
+    [
+      "Nexus 5x",
+      {
+        "offset": "+53+231",
+        "width": 1080
+      }
+    ],
+    [
+      "Nexus 6P",
+      {
+        "offset": "+59+329",
+        "width": 1440
+      }
+    ],
+    [
+      "Nexus 9",
+      {
+        "offset": "+96+260",
+        "width": 1536
+      }
+    ],
+    [
+      "Samsung Galaxy Grand Prime",
+      {
+        "offset": "+47+148",
+        "width": 540
+      }
+    ],
+    [
+      "Samsung Galaxy Note 5",
+      {
+        "offset": "+66+290",
+        "width": 1440
+      }
+    ],
+    [
+      "Samsung Galaxy S Duos",
+      {
+        "offset": "+48+156",
+        "width": 480
+      }
+    ],
+    [
+      "Samsung Galaxy S3",
+      {
+        "offset": "+65+158",
+        "width": 720
+      }
+    ],
+    [
+      "Samsung Galaxy S5",
+      {
+        "offset": "+79+246",
+        "width": 1080
+      }
+    ],
+    [
+      "Samsung Galaxy S7",
+      {
+        "offset": "+73+338",
+        "width": 1440
+      }
+    ],
+    [
+      "Samsung Galaxy S8",
+      {
+        "offset": "+48+187",
+        "width": 1440
+      }
+    ],
+    [
+      "Samsung Galaxy S9",
+      {
+        "offset": "+46+178",
+        "width": 1440
+      }
+    ],
+    [
+      "iPad Air 2",
+      {
+        "offset": "+111+224",
+        "width": 1536
+      }
+    ],
+    [
+      "iPad Mini 4",
+      {
+        "offset": "+96+278",
+        "width": 1536
+      }
+    ],
+    [
+      "iPad Pro",
+      {
+        "offset": "+119+216",
+        "width": 2048
+      }
+    ],
+    [
+      "iPhone 5c",
+      {
+        "offset": "+67+239",
+        "width": 640
+      }
+    ],
+    [
+      "iPhone 5s",
+      {
+        "offset": "+64+238",
+        "width": 640
+      }
+    ],
+    [
+      "iPhone 6s",
+      {
+        "offset": "+61+228",
+        "width": 750
+      }
+    ],
+    [
+      "iPhone 6s Plus",
+      {
+        "offset": "+102+379",
+        "width": 1242
+      }
+    ],
+    [
+      "iPhone 7",
+      {
+        "offset": "+61+228",
+        "width": 750
+      }
+    ],
+    [
+      "iPhone 7 Plus",
+      {
+        "offset": "+104+380",
+        "width": 1242
+      }
+    ],
+    [
+      "iPhone 8",
+      {
+        "offset": "+61+219",
+        "width": 750
+      }
+    ],
+    [
+      "iPhone 8 Plus",
+      {
+        "offset": "+98+335",
+        "width": 1242
+      }
+    ],
+    [
+      "iPhone SE",
+      {
+        "offset": "+64+237",
+        "width": 640
+      }
+    ],
+    [
+      "iPhone X",
+      {
+        "offset": "+85+77",
+        "width": 1125
+      }
+    ],
+    [
+      "iPhone XR",
+      {
+        "offset": "+75+71",
+        "width": 828
+      }
+    ],
+    [
+      "iPhone XS",
+      {
+        "offset": "+85+77",
+        "width": 1125
+      }
+    ],
+    [
+      "iPhone XS Max",
+      {
+        "offset": "+86+78",
+        "width": 1242
+      }
+    ]
+  ]
 }
