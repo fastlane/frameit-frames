@@ -16,31 +16,27 @@
       "offset": "+60+193",
       "width": 1440
     },
-    "HTC One A9": {
-      "offset": "+78+292",
+    "Google Pixel 5": {
+      "offset": "+58+58",
       "width": 1080
     },
-    "HTC One M8": {
-      "offset": "+72+267",
+    "Google Pixel 5 Sorta Sage": {
+      "offset": "+58+58",
       "width": 1080
+    },
+    "Google Pixel Slate": {
+      "offset": "+161+152",
+      "width": 3000
     },
     "Huawei P8": {
       "offset": "+60+230",
       "width": 1080
     },
-    "MacBook Air 13\"": {
-      "offset": "+373+123",
-      "width": 2560
-    },
-    "Macbook": {
-      "offset": "+380+128",
-      "width": 2304
-    },
-    "Macbook Pro 13\"": {
+    "Macbook Pro 13": {
       "offset": "+394+143",
       "width": 2560
     },
-    "Macbook Pro 15\"": {
+    "Macbook Pro 15": {
       "offset": "+441+143",
       "width": 2880
     },
@@ -68,10 +64,6 @@
       "offset": "+96+260",
       "width": 1536
     },
-    "Samsung Galaxy Grand Prime": {
-      "offset": "+47+148",
-      "width": 540
-    },
     "Samsung Galaxy Note 10": {
       "offset": "+28+31",
       "width": 1080
@@ -80,32 +72,12 @@
       "offset": "+36+41",
       "width": 1440
     },
-    "Samsung Galaxy Note 5": {
-      "offset": "+66+290",
-      "width": 1440
-    },
-    "Samsung Galaxy S Duos": {
-      "offset": "+48+156",
-      "width": 480
-    },
     "Samsung Galaxy S10": {
       "offset": "+41+71",
       "width": 1440
     },
     "Samsung Galaxy S10+": {
       "offset": "+41+65",
-      "width": 1440
-    },
-    "Samsung Galaxy S3": {
-      "offset": "+65+158",
-      "width": 720
-    },
-    "Samsung Galaxy S5": {
-      "offset": "+79+246",
-      "width": 1080
-    },
-    "Samsung Galaxy S7": {
-      "offset": "+73+338",
       "width": 1440
     },
     "Samsung Galaxy S8": {
@@ -116,39 +88,51 @@
       "offset": "+46+178",
       "width": 1440
     },
-    "Xiaomi Mi Mix Alpha": {
-      "offset": "+0+25",
-      "width": 1090
+    "Surface Pro X": {
+      "offset": "+74+134",
+      "width": 2880
     },
-    "iPhone 6s Plus": {
-      "offset": "+102+379",
+    "iPad 10.2": {
+      "offset": "+96+225",
+      "width": 1620
+    },
+    "iPad 10.2 Pro 11": {
+      "offset": "+95+100",
+      "width": 1668
+    },
+    "iPad 10.2 Pro 13": {
+      "offset": "+96+102",
+      "width": 2048
+    },
+    "iPad Air (2019)": {
+      "offset": "+73+192",
+      "width": 1668
+    },
+    "iPad Air (2019) 2020  Portrait": {
+      "offset": "+110+114",
+      "width": 1640
+    },
+    "iPad Air (2019) 2020 Sky  Portrait": {
+      "offset": "+110+114",
+      "width": 1640
+    },
+    "iPad Mini (2019)": {
+      "offset": "+96+279",
+      "width": 1536
+    },
+    "iPhone 11": {
+      "offset": "+75+71",
+      "width": 828
+    },
+    "iPhone 11 Pro": {
+      "offset": "+85+77",
+      "width": 1125
+    },
+    "iPhone 11 Pro Max": {
+      "offset": "+86+78",
       "width": 1242
     },
-    "iPhone 12 Pro Max Graphite": {
-      "offset": "+74+62",
-      "width": 1284
-    },
-    "iPhone 12 Pro Max": {
-      "offset": "+74+62",
-      "width": 1284
-    },
-    "iPhone 12 Pro Max Pacific": {
-      "offset": "+74+62",
-      "width": 1284
-    },
-    "iPhone 7": {
-      "offset": "+61+228",
-      "width": 750
-    },
-    "iPhone 8": {
-      "offset": "+61+219",
-      "width": 750
-    },
     "iPhone 12": {
-      "offset": "+72+63",
-      "width": 1170
-    },
-    "iPhone 12 Black": {
       "offset": "+72+63",
       "width": 1170
     },
@@ -156,39 +140,7 @@
       "offset": "+70+59",
       "width": 1080
     },
-    "iPhone 12 Mini Black": {
-      "offset": "+70+59",
-      "width": 1080
-    },
-    "iPhone 11 Pro Max Midnight": {
-      "offset": "+86+78",
-      "width": 1242
-    },
-    "iPhone 11 Pro Max": {
-      "offset": "+86+78",
-      "width": 1242
-    },
-    "iPhone 5c": {
-      "offset": "+67+239",
-      "width": 640
-    },
-    "iPhone 8 Plus": {
-      "offset": "+98+335",
-      "width": 1242
-    },
-    "iPhone 11 Pro": {
-      "offset": "+85+77",
-      "width": 1125
-    },
-    "iPhone 11 Pro Midnight": {
-      "offset": "+85+77",
-      "width": 1125
-    },
     "iPhone 12 Pro": {
-      "offset": "+72+63",
-      "width": 1170
-    },
-    "iPhone 12 Pro Pacific": {
       "offset": "+72+63",
       "width": 1170
     },
@@ -196,125 +148,73 @@
       "offset": "+72+63",
       "width": 1170
     },
-    "iPhone XS": {
-      "offset": "+85+77",
-      "width": 1125
+    "iPhone 12 Pro Max": {
+      "offset": "+74+62",
+      "width": 1284
     },
-    "iPhone X": {
-      "offset": "+85+77",
-      "width": 1125
+    "iPhone 12 Pro Max Graphite": {
+      "offset": "+74+62",
+      "width": 1284
     },
-    "iPhone 11 Purple": {
-      "offset": "+75+71",
-      "width": 828
+    "iPhone 12 Pro Max Pacific": {
+      "offset": "+74+62",
+      "width": 1284
     },
-    "iPhone 11": {
-      "offset": "+75+71",
-      "width": 828
+    "iPhone 12 Pro Pacific": {
+      "offset": "+72+63",
+      "width": 1170
     },
-    "iPhone 11 Black": {
-      "offset": "+75+71",
-      "width": 828
-    },
-    "iPhone XS Max": {
-      "offset": "+86+78",
-      "width": 1242
-    },
-    "iPhone 7 Plus": {
-      "offset": "+104+380",
-      "width": 1242
-    },
-    "iPhone XR": {
-      "offset": "+75+71",
-      "width": 828
+    "iPhone 5c": {
+      "offset": "+67+239",
+      "width": 640
     },
     "iPhone 5s": {
       "offset": "+64+238",
       "width": 640
     },
-    "iPhone SE Black": {
+    "iPhone 6s": {
+      "offset": "+61+228",
+      "width": 750
+    },
+    "iPhone 6s Plus": {
+      "offset": "+102+379",
+      "width": 1242
+    },
+    "iPhone 7": {
+      "offset": "+61+228",
+      "width": 750
+    },
+    "iPhone 7 Plus": {
+      "offset": "+104+380",
+      "width": 1242
+    },
+    "iPhone 8": {
       "offset": "+61+219",
       "width": 750
+    },
+    "iPhone 8 Plus": {
+      "offset": "+98+335",
+      "width": 1242
     },
     "iPhone SE": {
       "offset": "+61+219",
       "width": 750
     },
-    "iPhone 6s": {
-      "offset": "+61+228",
-      "width": 750
+    "iPhone X": {
+      "offset": "+85+77",
+      "width": 1125
     },
-    "iMac Pro": {
-      "offset": "+228+243",
-      "width": 5120
+    "iPhone XR": {
+      "offset": "+75+71",
+      "width": 828
     },
-    "Macbook Pro 13": {
-      "offset": "+394+143",
-      "width": 2560
+    "iPhone XS": {
+      "offset": "+85+77",
+      "width": 1125
     },
-    "Macbook Pro 15": {
-      "offset": "+441+143",
-      "width": 2880
-    },
-    "iPad Air": {
-      "offset": "+73+192",
-      "width": 1668
-    },
-    "iPad": {
-      "offset": "+96+225",
-      "width": 1620
-    },
-    "iPad Mini": {
-      "offset": "+96+279",
-      "width": 1536
-    },
-    "iPad Air 2020 Sky  Landscape": {
-      "offset": "+114+114",
-      "width": 2360
-    },
-    "iPad Air 2020  Portrait": {
-      "offset": "+110+114",
-      "width": 1640
-    },
-    "iPad Air 2020  Landscape": {
-      "offset": "+114+114",
-      "width": 2360
-    },
-    "iPad Air 2020 Sky  Portrait": {
-      "offset": "+110+114",
-      "width": 1640
-    },
-    "iPad 10.2": {
-      "offset": "+96+225",
-      "width": 1620
-    },
-    "iPad Air (2019)": {
-      "offset": "+73+192",
-      "width": 1668
-    },
-    "iPad Mini (2019)": {
-      "offset": "+96+279",
-      "width": 1536
-    },
-    "iPad Pro (11 inch)": {
-      "offset": "+95+100",
-      "width": 1668
-    },
-    "iPad Pro (12.9 inch) (3rd generation)": {
-      "offset": "+96+102",
-      "width": 2048
-    },
-    "iPad Air 2": {
-      "offset": "+112+224",
-      "width": 1536
-    },
-    "iPad Mini 4": {
-      "offset": "+96+278",
-      "width": 1536
-    },
-    "iPad Pro": {
-      "offset": "+119+216",
-      "width": 2048
+    "iPhone XS Max": {
+      "offset": "+86+78",
+      "width": 1242
     }
   }
 }
