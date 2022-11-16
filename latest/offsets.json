@@ -379,6 +379,10 @@
     "iPhone XS Max": {
       "offset": "+86+78",
       "width": 1242
+    },
+    "iPhone 14 Pro Max Deep Purple": {
+      "offset": "+81+68",
+      "width": 1290
     }
   }
 }
