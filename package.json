@@ -1,0 +1,11 @@
+{
+  "name": "frameit-frames",
+  "license": "MIT",
+  "scripts": {
+    "fmt": "oxfmt",
+    "fmt:check": "oxfmt --check"
+  },
+  "devDependencies": {
+    "oxfmt": "^0.43.0"
+  }
+}
