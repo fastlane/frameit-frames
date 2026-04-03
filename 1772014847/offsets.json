@@ -1,6 +1,6 @@
 {
   "portrait": {
-    "Google PIxel 2 Kinda": {
+    "Google Pixel 2 Kinda": {
       "offset": "+59+295",
       "width": 1080
     },
@@ -9,10 +9,6 @@
       "width": 1080
     },
     "Google Pixel 2 XL": {
-      "offset": "+91+242",
-      "width": 1440
-    },
-    "Google Pixel 2 XL  and": {
       "offset": "+91+242",
       "width": 1440
     },
@@ -36,7 +32,7 @@
       "offset": "+58+58",
       "width": 1080
     },
-    "Google Pixel 5 Sorta Sage": {
+    "Google Pixel 5\u00a0Sorta Sage": {
       "offset": "+58+58",
       "width": 1080
     },
@@ -144,7 +140,7 @@
       "offset": "+44+57",
       "width": 1440
     },
-    "Samsung Galaxy S20 Utra Cosmic": {
+    "Samsung Galaxy S20 Ultra Cosmic": {
       "offset": "+39+46",
       "width": 1440
     },
