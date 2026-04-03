@@ -1,0 +1,26 @@
+name: "Test"
+permissions:
+  contents: read
+
+on:
+  pull_request:
+  push:
+    branches:
+      - gh-pages
+
+jobs:
+  lint-json:
+    name: lint json
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+      - uses: actions/setup-node@v6
+        with:
+          node-version: 24
+          cache: "npm"
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run Linter
+        run: npm run fmt:check
