@@ -1,6 +1,6 @@
 {
   "portrait": {
-    "Google PIxel 2 Kinda": {
+    "Google Pixel 2 Kinda": {
       "offset": "+59+295",
       "width": 1080
     },
@@ -72,15 +72,15 @@
       "offset": "+373+123",
       "width": 2560
     },
-    "Macbook": {
+    "MacBook": {
       "offset": "+380+128",
       "width": 2304
     },
-    "Macbook Pro 13": {
+    "MacBook Pro 13": {
       "offset": "+394+143",
       "width": 2560
     },
-    "Macbook Pro 16": {
+    "MacBook Pro 16": {
       "offset": "+419+98",
       "width": 3072
     },
@@ -144,7 +144,7 @@
       "offset": "+44+57",
       "width": 1440
     },
-    "Samsung Galaxy S20 Utra Cosmic": {
+    "Samsung Galaxy S20 Ultra Cosmic": {
       "offset": "+39+46",
       "width": 1440
     },
