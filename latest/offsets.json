@@ -439,6 +439,16 @@
     "iPhone XS Max": {
       "offset": "+86+78",
       "width": 1242
+    },
+    "iPhone Duo Outer": {
+      "offset": "+88+80",
+      "width": 1398,
+      "mask": "Apple iPhone Duo Outer Screen Mask.png"
+    },
+    "iPhone Duo Inner": {
+      "offset": "+120+120",
+      "width": 2007,
+      "mask": "Apple iPhone Duo Inner Screen Mask.png"
     }
   }
 }
