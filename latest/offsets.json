@@ -197,8 +197,8 @@
       "width": 1440
     },
     "Surface Pro X": {
-      "offset": "+74+134",
-      "width": 2880
+      "offset": "+134+66",
+      "width": 1920
     },
     "Xiaomi Mi Mix Alpha": {
       "offset": "+0+25",
@@ -208,20 +208,28 @@
       "offset": "+96+225",
       "width": 1620
     },
-    "iPad Air (2019) 2": {
+    "iPad Air 2": {
       "offset": "+111+224",
       "width": 1536
     },
-    "iPad Air (2019) 2020  Portrait": {
+    "iPad Air 2020 Portrait": {
       "offset": "+110+114",
       "width": 1640
     },
-    "iPad Air (2019) 2020 Sky  Portrait": {
+    "iPad Air 2020 Sky Portrait": {
       "offset": "+110+114",
       "width": 1640
+    },
+    "iPad Air (2019)": {
+      "offset": "+73+192",
+      "width": 1668
     },
     "iPad Mini (2019)": {
       "offset": "+96+279",
+      "width": 1536
+    },
+    "iPad Mini 4": {
+      "offset": "+96+278",
       "width": 1536
     },
     "iPad Pro": {
@@ -232,7 +240,15 @@
       "offset": "+95+100",
       "width": 1668
     },
+    "iPad Pro (10.5 inch)": {
+      "offset": "+73+192",
+      "width": 1668
+    },
     "iPad Pro (12.9 inch) (4th generation)": {
+      "offset": "+96+102",
+      "width": 2048
+    },
+    "iPad Pro (12.9 inch) (3rd generation)": {
       "offset": "+96+102",
       "width": 2048
     },
@@ -420,9 +436,13 @@
       "offset": "+98+335",
       "width": 1242
     },
-    "iPhone SE": {
+    "iPhone SE (2nd generation)": {
       "offset": "+61+219",
       "width": 750
+    },
+    "iPhone SE": {
+      "offset": "+64+237",
+      "width": 640
     },
     "iPhone X": {
       "offset": "+85+77",
