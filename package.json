@@ -3,7 +3,8 @@
   "license": "MIT",
   "scripts": {
     "fmt": "oxfmt",
-    "fmt:check": "oxfmt --check"
+    "fmt:check": "oxfmt --check",
+    "release": "node internal/release.mjs"
   },
   "devDependencies": {
     "oxfmt": "^0.43.0"
