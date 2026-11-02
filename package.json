@@ -7,6 +7,6 @@
     "release": "node internal/release.mjs"
   },
   "devDependencies": {
-    "oxfmt": "^0.43.0"
+    "oxfmt": "^0.75.0"
   }
 }
